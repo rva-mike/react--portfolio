@@ -2,6 +2,7 @@ import React from 'react'
 import Nav from './components/Nav'
 import About from './components/About'
 import Footer from './components/Footer'
+import Portfolio from './components/Portfolio'
 
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
     <div>
       <Nav></Nav>
       <About></About>
+      <Portfolio></Portfolio>
       <Footer></Footer>
     </div>
   )

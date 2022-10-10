@@ -3,9 +3,9 @@ import React from "react";
 function Navigation() {
     return (
         <>
-            <header>Mike Levy</header>
+            <header className="text-center">Mike Levy</header>
             <div className="">
-                <ul className="nav">
+                <ul className="nav nav-tabs justify-content-center">
                     <li className="is-active">
                         <a>About</a>
                     </li>
