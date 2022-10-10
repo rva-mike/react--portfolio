@@ -5,7 +5,7 @@ function Navigation() {
         <>
             <header>Mike Levy</header>
             <div className="">
-                <ul>
+                <ul className="nav">
                     <li className="is-active">
                         <a>About</a>
                     </li>
