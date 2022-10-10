@@ -1,18 +1,14 @@
-import React from 'react'
-import Nav from './components/Nav'
-import About from './components/About'
-import Footer from './components/Footer'
-import Portfolio from './components/Portfolio'
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 
 export default function App() {
 
   return (
     <div>
-      <Nav></Nav>
-      <About></About>
-      <Portfolio></Portfolio>
+      <Header></Header>
       <Footer></Footer>
     </div>
-  )
+  );
 }
