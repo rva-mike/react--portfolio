@@ -1,7 +1,7 @@
 import React from 'react'
 import Proj from "../Proj";
 
-export default function index() {
+export default function Portfolio() {
     return (
         <div>
             <p className="">Portfolio</p>
