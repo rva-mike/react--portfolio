@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
     return (
         <footer>
-            <div className="text-center">
+            <div className="text-center footer">
                 <p>
                     My Portfolio - a React site by <strong>Mike Levy</strong>
                     <hr />

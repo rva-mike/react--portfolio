@@ -3,7 +3,7 @@ import React from 'react'
 export default function Project(props) {
     return (
         <div>
-            <div className="d-flex flex-row">
+            <div className="proj-cards">
                 {props.projects.map((project) => (
                     <div class="card" key={project.id}>
                         <img src={process.env.PUBLIC_URL + project.image} class="card-img-top" alt="..." />

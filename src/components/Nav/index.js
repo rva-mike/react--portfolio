@@ -1,11 +1,14 @@
 
 import React from "react";
+import Logo from "../../assets/ML.jpg"
+
 
 export default function Navigation(props) {
   const tabs = ["About", "Portfolio", "Contact", "Resume"];
   return (
     <>
-    <header className="text-center">Mike Levy</header>
+    <img className="logo text-center" src={Logo} alt="Mike Levy Logo"></img>
+    {/* <header className="text-center">Mike Levy</header> */}
     <div className="">
       <ul className="nav nav-tabs justify-content-center">
         {tabs.map((tab) => (
