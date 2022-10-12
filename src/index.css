@@ -62,6 +62,10 @@ header {
   
 }
 
+.footer-link {
+  margin-right: 100px;
+}
+
 .footer-link{
   margin-right: 10px;
 }
@@ -84,7 +88,11 @@ header {
 
 
 .pic-of-me {
-  width: 130px;
+  width: 175px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 20px -11px rgba(0,0,0,1);
+  -webkit-box-shadow: 0px 0px 20px -11px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 20px -11px rgba(0,0,0,1);
 }
 
 
@@ -110,6 +118,3 @@ textarea {
   resize:vertical;
 }
 
-.app-link {
-  margin-right: 5px;
-}

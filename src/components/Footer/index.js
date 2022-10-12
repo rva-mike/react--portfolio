@@ -18,7 +18,6 @@ export default function Footer() {
                     <i class="fa-brands fa-2x fa-stack-overflow"></i>
                     </a>
                 </p>
-                
             </div>
         </footer>
     );
