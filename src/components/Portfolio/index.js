@@ -57,7 +57,6 @@ export default function Portfolio() {
     return (
         <div>
             <p className="page-title text-center">Portfolio</p>
-            <hr />
             <Proj projects={projects} />
         </div>
     );

@@ -65,7 +65,10 @@ header {
 
 .card {
   width: 275px;
-  /* margin: 0px 10px; */
+  margin: 20px 5px;
+  box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.14);
+  -webkit-box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.14);
+  -moz-box-shadow: 5px 6px 5px 0px rgba(0,0,0,0.14);
 }
 
 
