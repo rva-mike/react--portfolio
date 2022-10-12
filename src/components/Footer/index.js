@@ -5,10 +5,17 @@ export default function Footer() {
         <footer>
             <div className="text-center footer">
                 <p>
-                    My Portfolio - a React site by <strong>Mike Levy</strong>
+                    <br></br>
                     <hr />
-                    <a href="https://github.com/rva-mike" target="_blank" rel="noreferrer">
+                    <p className='mb-2'>My Portfolio - a React site by <strong>Mike Levy</strong></p>
+                    <a className='footer-link' href="https://github.com/rva-mike" target="_blank" rel="noreferrer">
                         GitHub
+                    </a>
+                    <a className='footer-link' href="https://www.linkedin.com/in/mike-levy-url/" target="_blank" rel="noreferrer">
+                        LinkedIn
+                    </a>
+                    <a href="https://stackoverflow.com/users/19123991/rva-mike" target="_blank" rel="noreferrer">
+                        Stack Overflow
                     </a>
                 </p>
             </div>
