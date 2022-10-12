@@ -36,9 +36,10 @@ export default function Contact() {
   };
 
   return (
-    
+
     <div className='text-center'>
-      <p className="page-title text-center">Contact Me</p>
+      <p className="page-title text-center">Contact</p>
+      <a className='email' href="mailto:mike.levy.rva@gmail.com">mike.levy.rva@gmail.com   <i class="fa-regular fa-envelope"></i></a>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div className="field">
           <input placeholder="Name" className="input feedback-input" type="text" name="name" defaultValue={name} onBlur={handleChange} />
@@ -56,16 +57,6 @@ export default function Contact() {
         )}
         <button className="btn btn-primary text-center" data-testid="button" type="submit">Submit</button>
       </form>
-
-
-      {/* <form>
-        <input name="name" type="text" class="feedback-input" placeholder="Name" />
-        <input name="email" type="text" class="feedback-input" placeholder="Email" />
-        <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
-        <input type="submit" value="SUBMIT" />
-      </form> */}
-
-
     </div>
 
 

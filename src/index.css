@@ -121,3 +121,7 @@ textarea {
 .app-link {
   margin-right: 5px;
 }
+
+.email {
+  text-decoration: none;
+}
