@@ -37,7 +37,7 @@ export default function Contact() {
 
   return (
     <div>
-      <p className="">Contact Me</p>
+      <p className="page-title text-center">Contact Me</p>
       <hr />
       <form id="contact-form" onSubmit={handleSubmit}>
         <div className="field">
