@@ -36,30 +36,41 @@ export default function Contact() {
   };
 
   return (
-    <div>
+    
+    <div className='text-center'>
       <p className="page-title text-center">Contact Me</p>
-      <hr />
       <form id="contact-form" onSubmit={handleSubmit}>
         <div className="field">
-          <label className="label" htmlFor="name">Name</label>
-          <input className="input" type="text" name="name" defaultValue={name} onBlur={handleChange} />
+          <input placeholder="Name" className="input feedback-input" type="text" name="name" defaultValue={name} onBlur={handleChange} />
         </div>
         <div className="field">
-          <label className="label" htmlFor="email">Email Address</label>
-          <input className="input" type="email" name="email" defaultValue={email} onBlur={handleChange} />
+          <input placeholder="Email" className="input feedback-input" type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
         <div className="field">
-          <label className="label" htmlFor="message">Message</label>
-          <textarea className="textarea" name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+          <textarea placeholder='Message' className="textarea feedback-input" name="message" rows="5" defaultValue={message} onBlur={handleChange} />
         </div>
         {errorMessage && (
           <div>
             <p className="">{errorMessage}</p>
           </div>
         )}
-        <button className="button" data-testid="button" type="submit">Submit</button>
+        <button className="btn btn-primary text-center" data-testid="button" type="submit">Submit</button>
       </form>
+
+
+      {/* <form>
+        <input name="name" type="text" class="feedback-input" placeholder="Name" />
+        <input name="email" type="text" class="feedback-input" placeholder="Email" />
+        <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+        <input type="submit" value="SUBMIT" />
+      </form> */}
+
+
     </div>
+
+
+
+
   );
 }
 

@@ -6,8 +6,11 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 
 }
+
+
 
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -18,12 +21,14 @@ header {
   margin: 15px 0px;
   font-size: 30px;
   font-weight: 600;
+  
 }
 
 .page-title {
   margin: 20px;
   font-size: 20px;
   font-weight: 600;
+  
 }
 
 .about {
@@ -63,6 +68,32 @@ header {
   /* margin: 0px 10px; */
 }
 
+
+
 .pic-of-me {
   width: 130px;
 }
+
+
+form { max-width:420px; margin:20px auto; }
+
+.feedback-input {
+  font-weight:400;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 25px;
+  border: 1px solid #000000;
+  padding: 10px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline: 0;
+  
+}
+
+textarea {
+  height: 75px;
+  line-height: 150%;
+  resize:vertical;
+}
+
