@@ -10,7 +10,10 @@ export default function Project(props) {
                         <div class="card-body">
                             <h5 class="card-title">{project.title}</h5>
                             <p class="card-text">{project.description}</p>
-                            <a href={project.repo} class="btn btn-primary">Go to repo</a>
+                            
+                            <a href={project.link} target="_blank" rel="noreferrer" class="btn btn-primary app-link">Project link</a>
+                            
+                            <a target="_blank" rel="noreferrer" href={project.repo} class="btn btn-primary" >Go to repo</a>
                         </div>
                     </div>
                 ))}
