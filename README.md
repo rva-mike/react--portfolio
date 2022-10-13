@@ -1,3 +1,63 @@
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  # React Portfolio
+
+  ## Description
+   This is a portfolio built with React. React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. The Portfolio has 4 main sections; 'About', 'Portfolio', 'Contact', and 'Resume.' Bootstrap and custom CSS were used for the design implmenetations. 
+  
+https://reactjs.org/  
+  
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Link](#link)
+  * [Screenshot](#screenshot)
+  * [License](#license)
+  * [Questions](#questions)
+
+  ## Installation
+  
+  Git clone this repository and install the node packages with the command 'npm i' in your CLI. Then run the command 'npm start.' Your default browser will then automatically load the applicaion.
+
+
+  ## Usage
+  
+  Used for showcasing development skills and as a source of contact. 
+  
+  ## Link 
+  
+  Link to deployed application: 
+  
+  ## Screenshot
+
+
+
+  ## License
+  MIT
+
+  https://opensource.org/licenses/MIT
+
+
+  ## Questions
+  Please send me an email or visit my GitHub profile if you need to reach me for additional questions.
+
+  Email: mike.levy.rva@gmail.com
+
+  GitHub Profile: https://github.com/rva-mike
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
