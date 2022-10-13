@@ -1,19 +1,17 @@
 import React from 'react'
 import Proj from "../Proj"
-import bcChamp from '../../assets/bc--champ.png'
+import bcChamp from "../../assets/bcChamp.png"
 import techTalk from '../../assets/tech-talk.png'
 import codeQuiz from '../../assets/code-quiz.png'
 import noteTaker from '../../assets/note-taker.png'
 import readMePic from '../../assets/read-me.png'
 import teamGen from '../../assets/team-profile.png'
 
-
-
 const projects = [
     {
         id: 0,
         title: "Boot Camp Champ",
-        image: bcChamp,
+        image: {bcChamp},
         description: "This a full-stack application made by a group of individuals as a forum and networking tool for anyone who has been in, completed, or is interested in the University of Richmond's Web Development and Coding Boot Camp.",
         link: "https://boot-camp-champ-app.herokuapp.com/",
         repo: "https://github.com/chou8395-XOMYwl/bootcamp-champ",
