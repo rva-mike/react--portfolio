@@ -32,6 +32,10 @@ https://reactjs.org/
   
   ## Screenshot
 
+![Screen Shot 2022-10-12 at 9 11 57 PM](https://user-images.githubusercontent.com/105617274/195476156-5772ccad-2009-4673-89d9-b3e368d19ed0.png)
+
+
+![Screen Shot 2022-10-12 at 9 12 23 PM](https://user-images.githubusercontent.com/105617274/195476163-12ad85f0-f8e2-4d57-90c1-7f5ca69cb6f7.png)
 
 
   ## License
