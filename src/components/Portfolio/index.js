@@ -11,7 +11,7 @@ const projects = [
     {
         id: 0,
         title: "Boot Camp Champ",
-        image: {bcChamp},
+        image: bcChamp,
         description: "This a full-stack application made by a group of individuals as a forum and networking tool for anyone who has been in, completed, or is interested in the University of Richmond's Web Development and Coding Boot Camp.",
         link: "https://boot-camp-champ-app.herokuapp.com/",
         repo: "https://github.com/chou8395-XOMYwl/bootcamp-champ",
