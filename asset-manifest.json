@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react--portfolio/static/css/main.eb618562.css",
-    "main.js": "/react--portfolio/static/js/main.23070bfb.js",
+    "main.js": "/react--portfolio/static/js/main.db60b23b.js",
     "static/js/787.a2cb61a6.chunk.js": "/react--portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/me1.png": "/react--portfolio/static/media/me1.df5c49e2f94913129675.png",
     "static/media/ML.jpg": "/react--portfolio/static/media/ML.ea87acbc9e35059bcc30.jpg",
     "static/media/read-me.png": "/react--portfolio/static/media/read-me.a3712ff7f53eb7f180f6.png",
     "static/media/tech-talk.png": "/react--portfolio/static/media/tech-talk.dbf5c7a45a557cd2576f.png",
     "static/media/code-quiz.png": "/react--portfolio/static/media/code-quiz.5d7650e4eef182144f64.png",
-    "static/media/bc--champ.png": "/react--portfolio/static/media/bc--champ.3a32cf411e1c3891fb6c.png",
+    "static/media/bcChamp.png": "/react--portfolio/static/media/bcChamp.3a32cf411e1c3891fb6c.png",
     "static/media/team-profile.png": "/react--portfolio/static/media/team-profile.70ee3a6db28cf1c4fad0.png",
     "static/media/note-taker.png": "/react--portfolio/static/media/note-taker.e4a7aab52a5c6e23d845.png",
     "index.html": "/react--portfolio/index.html",
     "main.eb618562.css.map": "/react--portfolio/static/css/main.eb618562.css.map",
-    "main.23070bfb.js.map": "/react--portfolio/static/js/main.23070bfb.js.map",
+    "main.db60b23b.js.map": "/react--portfolio/static/js/main.db60b23b.js.map",
     "787.a2cb61a6.chunk.js.map": "/react--portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb618562.css",
-    "static/js/main.23070bfb.js"
+    "static/js/main.db60b23b.js"
   ]
 }
