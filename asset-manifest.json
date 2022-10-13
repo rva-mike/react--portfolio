@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rva-mike/react--portfolio/static/css/main.eb618562.css",
+    "main.js": "/rva-mike/react--portfolio/static/js/main.9b6ec680.js",
+    "static/js/787.a2cb61a6.chunk.js": "/rva-mike/react--portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/me1.png": "/rva-mike/react--portfolio/static/media/me1.df5c49e2f94913129675.png",
+    "static/media/ML.jpg": "/rva-mike/react--portfolio/static/media/ML.ea87acbc9e35059bcc30.jpg",
+    "static/media/read-me.png": "/rva-mike/react--portfolio/static/media/read-me.a3712ff7f53eb7f180f6.png",
+    "static/media/tech-talk.png": "/rva-mike/react--portfolio/static/media/tech-talk.dbf5c7a45a557cd2576f.png",
+    "static/media/code-quiz.png": "/rva-mike/react--portfolio/static/media/code-quiz.5d7650e4eef182144f64.png",
+    "static/media/bc--champ.png": "/rva-mike/react--portfolio/static/media/bc--champ.3a32cf411e1c3891fb6c.png",
+    "static/media/team-profile.png": "/rva-mike/react--portfolio/static/media/team-profile.70ee3a6db28cf1c4fad0.png",
+    "static/media/note-taker.png": "/rva-mike/react--portfolio/static/media/note-taker.e4a7aab52a5c6e23d845.png",
+    "index.html": "/rva-mike/react--portfolio/index.html",
+    "main.eb618562.css.map": "/rva-mike/react--portfolio/static/css/main.eb618562.css.map",
+    "main.9b6ec680.js.map": "/rva-mike/react--portfolio/static/js/main.9b6ec680.js.map",
+    "787.a2cb61a6.chunk.js.map": "/rva-mike/react--portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb618562.css",
+    "static/js/main.9b6ec680.js"
+  ]
+}
