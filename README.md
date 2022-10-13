@@ -28,7 +28,7 @@ https://reactjs.org/
   
   ## Link 
   
-  Link to deployed application: 
+  Link to deployed application: https://rva-mike.github.io/react--portfolio/
   
   ## Screenshot
 
