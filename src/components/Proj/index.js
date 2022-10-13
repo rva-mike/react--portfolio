@@ -7,8 +7,9 @@ export default function Project(props) {
                 {props.projects.map((project) => (
                     <div class="card" key={project.id}>
                         <img src={process.env.PUBLIC_URL + project.image} class="card-img-top" alt="..." />
+                        {/* <hr></hr> */}
                         <div class="card-body">
-                            <h5 class="card-title">{project.title}</h5>
+                            <h5 class="card-title"><strong>{project.title}</strong></h5>
                             <p class="card-text">{project.description}</p>
                             
                             <a href={project.link} target="_blank" rel="noreferrer" class="btn btn-primary app-link">Project link</a>

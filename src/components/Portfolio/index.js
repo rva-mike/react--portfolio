@@ -22,7 +22,7 @@ const projects = [
         id: 1,
         title: "Tech-Talk",
         image: techTalk,
-        description: "This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. ",
+        description: "This is a CMS-style blog site similar to a Wordpress site, where developers can publish blog posts and comment on other developers’ posts. ",
         link: "https://tech-talk-blog-xyz.herokuapp.com/",
         repo: "https://github.com/rva-mike/Tech-Talk",
     },

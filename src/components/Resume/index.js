@@ -19,7 +19,7 @@ export default function Resume() {
                 <p className="text-center mb-1 mt-4"><strong>Skills</strong></p>
 
                 <p className="text-center">
-                    <li>HTML, CSS, Javascript</li>
+                    <li>HTML, CSS, JavaScript</li>
                     <li>React, Express, MongoDB, Node</li>
                     <li>Bootstrap, Bulma, Wordpress</li>
                     <li>Git, GitHub, SQL, NoSQL </li>

@@ -3,6 +3,7 @@ import Me from "../../assets/me1.png"
 
 
 export default function About() {
+    
     return (
         <div className='text-center'>
             
