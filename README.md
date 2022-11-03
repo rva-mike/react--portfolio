@@ -19,12 +19,12 @@ https://reactjs.org/
 
   ## Installation
   
-  Git clone this repository and install the node packages with the command 'npm i' in your CLI. Then run the command 'npm start.' Your default browser will then automatically load the applicaion.
+  Git clone this repository and install the node packages with the command 'npm i' in your CLI. Then run the command 'npm start.' Your default browser will then automatically load the application.
 
 
   ## Usage
   
-  Used for showcasing development skills and as a source of contact. 
+  Used for showcasing development skills and a source of contact. 
   
   ## Link 
   
