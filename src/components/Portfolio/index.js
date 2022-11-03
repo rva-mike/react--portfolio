@@ -1,11 +1,12 @@
 import React from 'react'
 import Proj from "../Proj"
 import bcChamp from "../../assets/bcChamp.png"
-import techTalk from '../../assets/tech-talk.png'
+// import techTalk from '../../assets/tech-talk.png'
 import codeQuiz from '../../assets/code-quiz.png'
 import noteTaker from '../../assets/note-taker.png'
 import readMePic from '../../assets/read-me.png'
 import teamGen from '../../assets/team-profile.png'
+import subatomic from '../../assets/subatomic.png'
 
 const projects = [
     {
@@ -18,11 +19,11 @@ const projects = [
     },
     {
         id: 1,
-        title: "Tech-Talk",
-        image: techTalk,
-        description: "This is a CMS-style blog site similar to a Wordpress site, where developers can publish blog posts and comment on other developers’ posts. ",
-        link: "https://tech-talk-blog-xyz.herokuapp.com/",
-        repo: "https://github.com/rva-mike/Tech-Talk",
+        title: "Sub Atomic",
+        image: subatomic,
+        description: "This app is designed to help find substitute teacher. 'Sub Atomic' uses the MERN (MongoDB, Express.js, React, and Node.js) tech stack. It combines a back-end implemented with Node.js and Express.js API with a MongoDB database using a React front-end to create a single-page MERN application. ",
+        link: "https://sub-atomic-mern.herokuapp.com/",
+        repo: "https://github.com/rva-mike/Substitute-Finder",
     },
     {
         id: 3,
